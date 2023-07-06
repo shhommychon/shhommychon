@@ -1,3 +1,3 @@
 ### GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shhommychon)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://myreadme.vercel.app/api/embed/shhommychon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
